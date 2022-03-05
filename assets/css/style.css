@@ -16,7 +16,7 @@ body {
       background-color: #39a6b2;
   }
 
-  header a{ 
+  header a { 
       text-decoration: none;
       color: #fce138;
   }
@@ -70,14 +70,13 @@ section {
     padding: 60px;
 }
 
-/* Heero Style Start */
+/* Hero Style Start */
 .hero {
     padding: 60px;
     background-image: url("file:///Users/akevamelchor/Desktop/UCLA/PROJECTS/run-buddy/assets/images/hero-bg.jpeg");
     height: 600px;
     position: relative;
 } 
-/* Heero Style end */
 
 .hero-form {
     background-color: #fce138;
