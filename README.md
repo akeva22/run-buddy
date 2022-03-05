@@ -5,6 +5,8 @@
 ## Purpose
 A website that offers fitness training services. 
 
+VS test change
+
 ## Built with
 * HTML 
 * CSS
