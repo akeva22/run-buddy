@@ -1,5 +1,7 @@
 # Run Buddy, Inc
 
+Making test change
+
 ## Purpose
 A website that offers fitness training services. 
 
