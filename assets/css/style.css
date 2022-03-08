@@ -22,7 +22,7 @@ body {
       top: 0;
       background-size: cover;
       background-position: 80%;
-      background-image: url("file:///Users/akevamelchor/Desktop/UCLA/PROJECTS/run-buddy/assets/images/hero-bg.jpeg");
+      background-image: url("../images/hero-bg.jpeg");
   }
 
   header a { 
@@ -95,7 +95,7 @@ section {
 /* Hero Style Start */
 .hero {
     padding: 60px;
-    background-image: url("file:///Users/akevamelchor/Desktop/UCLA/PROJECTS/run-buddy/assets/images/hero-bg.jpeg");
+    background-image: url("../images/hero-bg.jpeg");
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
